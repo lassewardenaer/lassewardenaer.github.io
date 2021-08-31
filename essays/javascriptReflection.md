@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-Before I sat down to learn JavaScrit, I had a few thoughts on what to expect. From what I have heard it could be "dangouros", but is it so? 
+Before I sat down to learn JavaScript, I had a few thoughts on what to expect. From what I have heard it could be "dangouros", but is it so? 
 
 First of all, I am probably one of the few that learned Typescript first, and, as a consequence, I also knew a little Javascript. As a result, I was concerned about how safe it could be to evaluate all the logic during run time. On one hand, I could see that smaller project do not need the type safety of TypeScript. On the other hand, I know through Python that run-time errors can be really hard to find, and every tool to combat these bugs are much appriciated. 
 
