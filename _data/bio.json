@@ -83,14 +83,40 @@
   ],
   "work": [
     {
+      "company": "Appear",
+      "position": "R&D Engineer",
+      "website": "",
+      "startDate": "2021-06-01",
+      "endDate": "2021-08-10",
+      "summary": "Develop a system for on site video production",
+      "highlights": [
+        "Develop and simplify a complex system for non-technical personal",
+        "Implement communication with the X20 hardware"
+      ]
     }
   ],
   "volunteer": [
     {
+      {
+      "organization": "Contacot NTNU",
+      "website": "https://contactor.no/",
+      "position": "Financial Manager",
+      "startDate": "2018-08-01",
+      "endDate": "2020-08-01",
+      "summary": "Managing the finance of Contacor NTNU",
+      "highlights": [
+        "Budgets, Financial reports, Book keeping",
+        "Developing a new organization structure"
+      ]
+    
     }
   ],
   "awards": [
     {
+      "title": "This months role model",
+      "date": "2018-05-01",
+      "awarder": "Oppegard IL",
+      "summary": "I was rewarded with role model of the month after many years of work in the a local sports club"
     }
   ],
   "references": [
