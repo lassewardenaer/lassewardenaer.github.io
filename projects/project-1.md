@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/USER_SCOPED_TEMP_DATA_MSGR_PHOTO_FOR_UPLOAD_1605467473856_6733818647465019958~2.jpeg
+image: lassewardenaer.github.io/images/icsbyggern.jpeg
 title: Mini Tennis
 permalink: projects/minitennis
 # All dates must be YYYY-MM-DD format!
