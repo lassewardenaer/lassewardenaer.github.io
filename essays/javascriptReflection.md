@@ -17,4 +17,6 @@ My second thought going through the course, was how much the language is devolop
 
 My last thought revolves around the functional aspect of the language. After using Elixir for a couple of projects, I really miss some of the functionality it provides, when using other languages that are more limited in that regard. Many of these features could be found in the ES6 course. However, I do think more freedom surrounding the async functionality could be usefull, but it could also be that I need more training mastering this skill. (You should check out Elixirs threading functionalities though, they are pretty cool)
 
+From the isUnique-task, I learned that I need more training remembering the differnt tools of the language. I started the task the first time without remembering how to construct a new map, which led to bugs. In my second attempt I started solve the problem with a map, but ended up using a set instead. I ended up spending a little more than 5 min. 
+
 Anyway, I am ready to head into this new chapter with an open mind. There are allways some positive and some negative aspects of using one tool instead of another. Therefore, my goal is to get an introduction to new tools for solving problems, and most of all learn when these tools are appropriate to use. 
