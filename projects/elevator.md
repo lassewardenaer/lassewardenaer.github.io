@@ -12,7 +12,7 @@ labels:
 summary: My team developed a system for controlling n elevators over tcp with a high level of fail safe functionality.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/icsbyggern.jpeg">
+<img class="ui medium right floated rounded image" src="../images/elevator.png">
 
 In this project we created a system for controlling n elevator using elixir. The system could recover from power loss, loss of internet connection and other faults. 
 
