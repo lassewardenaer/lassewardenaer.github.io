@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: lassewardenaer.github.io/images/icsbyggern.jpeg
+image: images/icsbyggern.jpeg
 title: Mini Tennis
 permalink: projects/minitennis
 # All dates must be YYYY-MM-DD format!
