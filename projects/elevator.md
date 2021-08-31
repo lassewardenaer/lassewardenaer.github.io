@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/icsbyggern.jpeg
+image: images/elevator.png
 title: Elevators to infinity
 permalink: projects/elevators
 # All dates must be YYYY-MM-DD format!
