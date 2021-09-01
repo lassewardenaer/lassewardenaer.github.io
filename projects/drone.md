@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/elevator.png
+image: images/esmonde-yong-yqQPg2yZBC4-unsplash.jpg
 title: Drone Control
 permalink: projects/elevators
 # All dates must be YYYY-MM-DD format!
