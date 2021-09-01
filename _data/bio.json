@@ -41,7 +41,7 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -107,7 +107,7 @@
   ],
   "volunteer": [
     {
-      "organization": "Contacot NTNU",
+      "organization": "Contacor NTNU",
       "website": "https://contactor.no/",
       "position": "Financial Manager",
       "startDate": "2018-08-01",
@@ -128,6 +128,18 @@
       "highlights": [
         "Trainging for a career in technology consulting",
         "Professinal and individual follow-up"
+      ]
+    },
+    {
+      "organization": "Nettverksdagene",
+      "website": "https://nettverksdagene.no/",
+      "position": "Business Contact",
+      "startDate": "2020-04-01",
+      "endDate": "2021-02-01",
+      "summary": "Orginazing a career event",
+      "highlights": [
+        "Logistics",
+        "Communication"
       ]
     }
   ],
