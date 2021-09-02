@@ -20,7 +20,7 @@ The system was tested on both a physical representation of elevators running on 
 
 My main task in this project was to design the queuing system and make sure that every order was taken, in case of an error. 
 
-I learned that keeping a system with many concurrent processes can be hard, and that the best solution to most of the problems is to handle them the same way. Also, it is smart to "fail fast", so that one error does not spiral into other ones. 
+I learned that keeping a system with many concurrent processes free of race conditions can be hard, and that the best solution to most of the problems is to handle them the same way. Also, it is smart to "fail fast", so that one error does not spiral into other ones. 
 
 You can learn more at [the projects github page](https://github.com/lassewardenaer/TTK4145-Sanntidsprogrammering).
 
