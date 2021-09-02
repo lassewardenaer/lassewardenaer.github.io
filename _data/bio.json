@@ -31,17 +31,20 @@
     {
       "name": "Control Theory",
       "keywords": [
-        "Drones",
-        "Selfdriving Cars"
-      ]
-    },
-    {
-      "name": "Stock Market",
-      "keywords": [
       ]
     },
     {
       "name": "Artificial Intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Real Time Programming",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Stock Market",
       "keywords": [
       ]
     }
