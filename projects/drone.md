@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/esmonde-yong-yqQPg2yZBC4-unsplash.jpg
 title: Drone Control
-permalink: projects/elevators
+permalink: projects/drone
 # All dates must be YYYY-MM-DD format!
 date: 2020-10-01
 labels:
