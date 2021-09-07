@@ -19,7 +19,7 @@ In this project we created an embedded system from scratch, connecting multiple 
 
 My role was both revolved around the coupling of hardware and the coding of different drivers. My main accomplishment was to create an additional controller using a gyroscope, which ended up being a better solution than a normal joystick and buttons. 
 
-I learned that being really good at reading micro-controller documentation is a usefull skill to have. I also found how important is is to abstract away low level information in a tidy manner. 
+I learned that being really good at reading micro-controller documentation is a usefull skill to have. I also found how important is is to abstract away low level information in a tidy manner. To be organized and make everything as clear as possible is fundamentally important, both in regards to hardware and software design. 
 
 You can learn more at [the projects github page](https://github.com/lassewardenaer/TTK4155-Byggern).
 
