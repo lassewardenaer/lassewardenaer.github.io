@@ -8,6 +8,8 @@ labels:
   - Software Engineering
 ---
 
+<img class="ui medium right floated rounded image" src="../images/caution-454360_1920.jpg">
+
 Software engineering has endless possebilities. Practically everyone uses digital tools. Ever since I got my first GameBoy as a five year old kid, I wondered how it worked, and after some years of hobby projects, I got into my dream field of study: Cybernetics and Robotics.
 
 Today, I have mostly done projects related to mathematical models and low level programming. In many ways, I think this is a nice way starting out the learning of software engineering. By having a fundemental understanding of both hardware and low level software, one can understand why it is important to find effective solutions. In addition, if you have coded on less powerfull hardware, you can also bring this to other fields, for instance preservation of memory. 
