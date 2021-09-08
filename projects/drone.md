@@ -19,4 +19,4 @@ In this project we created a system for controlling a drone using a joystick. Th
 
 My main responsibility was to create the Kalan Filter, as well as setting up the model in Matlab. I was also responsible for most of the testing and tuning og the LQ-controller.
 
-I learned that creating a system is not allways just to follow steps in a book. To create something that is actually enjoyable to use, one has to test it in different environments, and tune the performance until it is acceptable.
+I learned that creating a system is not allways just to follow steps in a book. To create something that is actually enjoyable to use, one has to test it in different environments, and tune the performance until it is acceptable. In addition, I saw how powerful differential equations combined with matrices could be. Also, I learned the importance of combining equipment with the right software. If, for instance, you have one sensor with less noise, you can also adjust the model, so that it becomes faster. 
