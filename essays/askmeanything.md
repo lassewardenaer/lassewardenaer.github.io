@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Ask me (almost) Anything
 # All dates must be YYYY-MM-DD format!
-date: 2021-08-30
+date: 2021-09-08
 labels:
   - Software Engineering
 ---
