@@ -8,6 +8,8 @@ labels:
   - Software Engineering
 ---
 
+<img class="ui medium right floated rounded image" src="../images/matt-walsh-tVkdGtEe2C4-unsplash.jpg">
+
 Asking the correct questions is essential in software engineering. Open source makes it possible to find an answer to almost anything. However, there could be occurences where a problem is hard to find on the web. In that case, you can contribute to the open source community, not necessarily by answering a question, but instead asking a smart one. You will now be presented with two examples of questions, one that is smart and one that is not as smart. The first is about how to pass command line arguments to a Node.js program, while the other is about enums in Python. 
 
 ### How to do it
