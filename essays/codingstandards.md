@@ -15,7 +15,7 @@ What makes a codebase useful and powerful? A lot of people think of coding stand
 ### Larger Projects
 When solving a problem it is nessecary to write readable code, both for others and yourself when you eventually have to go back to it again. I would argue that by using coding standards you will be able to solve problems faster and smarter. This is especially true if you are working together with a larger team. If everyone writes the code in the same style, it is far easier to understand eachothers code. These projects can involve hundreds of thousends of lines of code. It is not hard to see why you would want to understand one style, instead of understanding many personal ones. The interesting part is not how you wrote the for-loop, or that you did an impressive one liner, but, instead, what problems the code solves, and how you would be able to use that code elsewhere.   
 
-### "The Correct Way To Do It?
+### "The Correct Way To Do It?"
 We can often read at forums such as StackOverflow, that a problem can be solved in some way. If there exists coding standards for a "good" way to write a specific language, most people would try to use this style. Then it would also be easier to ask for help, and answer questions, due to the fact that both sides are "on the same wave length". Just as it was important in a larger project, it is also important when trying to learn a language. We can move our focus away from the syntax and towards solving the problem. 
 
 ### Do You Want Strict Parents?
