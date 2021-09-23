@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: A Common Understanding
 # All dates must be YYYY-MM-DD format!
-date: 2021-09-08
+date: 2021-09-22
 labels:
   - Software Engineering
 ---
