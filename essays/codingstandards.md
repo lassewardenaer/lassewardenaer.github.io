@@ -8,6 +8,8 @@ labels:
   - Software Engineering
 ---
 
+<img class="ui medium right floated rounded image" src="../images/matt-walsh-tVkdGtEe2C4-unsplash.jpg">
+
 What makes a codebase useful and powerful? A lot of people think of coding standards in a trivial way, by for instance focusing on indents and where to put curly-braces. However, coding standards in a project can actually be vital for its success. 
 
 ### Larger Projects
