@@ -8,7 +8,7 @@ labels:
   - UI
 ---
 
-<img class="ui medium right floated rounded image" src="../images/caution-454360_1920.jpg">
+<img class="ui medium right floated rounded image" src="https://m.media-amazon.com/images/I/81WlvhzCyML._AC_SL1500_.jpg">
 
 UI frameworks can sometimes seem cumbersome to learn. There are many different options out there, and it can be difficult to choose which one to go for, because every tool has both benefits and limitations. However, in general there are a few main advantages of using something like Semantic UI.
 
