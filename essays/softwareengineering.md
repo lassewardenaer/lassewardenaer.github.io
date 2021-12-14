@@ -19,4 +19,5 @@ One concept that can truly be used in all sorts of problem solving is agile proj
 ### Be Precise in What You Do, Always
 To communicate well is arguably one of the most important skills to practice, both in your personal and professional life. Code quality teaches this skill by forcing you to think about readability. It is important to be concise, but at the same time easy to understand for others. In addition, you will learn to be precise and remove much of the overhead if done correctly. However, it is not just code quality that needs to be this way. If you are attending a meeting, one would often need to explain concepts to people without the same skill set. Consequently, it is vital to be able to adapt the language and your way of getting your point across to others. For instance, the employees in the marketing department might not have a degree in technology, but they can learn the essential concepts that are important to sell.     
 
-### Do the Right Choices Now
+### Do the Correct Choices Now
+What is then the result of joining large large projects and choosing a 
