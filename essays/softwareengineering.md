@@ -8,7 +8,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui medium right floated rounded image" src="https://mtv.mtvnimages.com/uri/mgid:ao:image:mtv.com:86633?quality=0.8&format=jpg&width=1440&height=810&.jpg">
+<img class="ui medium right floated rounded image" src="">
 
 
 Design patterns can seem overly strict and limiting at first. However, there are a few reasons why it can be helpful to focus on in a project. For me, High School Musical has the answer: "We're All In This Together". 
