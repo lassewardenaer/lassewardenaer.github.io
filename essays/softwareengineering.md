@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: We're All In This Together
+title: Can We Do Everything Ourselves?
 # All dates must be YYYY-MM-DD format!
-date: 2021-12-02
+date: 2021-12-13
 labels:
   - Software Engineering
 ---
@@ -11,10 +11,9 @@ labels:
 <img class="ui medium right floated rounded image" src="">
 
 
-Design patterns can seem overly strict and limiting at first. However, there are a few reasons why it can be helpful to focus on in a project. For me, High School Musical has the answer: "We're All In This Together". 
+In a world with increasingly more complicated solutions to larger problems, it can be hard to see where one fits in when it comes to problem solving. There could still be room for a new "Steve Wozniaks", people who invent life changing products nearly by themselves by writing a new kernel with pen and paper. However, to truly be part of todays innovations, one must likely be able to cooperate and innovate with a team. 
 
-### Reading Minds
-As you work on a bigger project with 5 or more people collaborating, it is important to understand how the team as a whole will solve the problems in hand. To develop an application for Appear, a Norwegian broadcast technology company, I ended up with this challenge. With a team of 10 people, where some had worked in the company for many years, while others, like me, were summer interns, we needed to be able to solve a larger problem together. As a result, the chosen design pattern was therefore the model-view-controller(MVC). After three years in university, mostly programming in C and Matlab, I had limited knowledge about web development in general. We used typescript, a language I had never used before, a special version of the React Library and the company's´s APIs were large and required much reading to understand what hundreds of properties meant. In other words, the learning curve was steep. On the first day working with the problem, I struggled to see why the extra layer of design pattern abstraction was necessary. However, I quickly realised that is it was essential for the progress, especially after a few weeks. If someone needed help, everyone could catch up with their problem and thought process fast, because they used the common general repeatable solution method. Also, in all companies employees come and go, and to be able to use and edit code written by others, one must understand the thought process behind the code. In addition, transferring team members is also easier when you have an abstract template for how to solve a problem that can be used in many different situations.       
+### Make the Project Move Forward
+One concept that can truly be used in all sorts of problem solving is agile project management. The ability to break down a problem into smaller parts is crucial, whether you are building a house, coding or other projects. This is important for multiple reasons. It is much more motivating to work on something, ig you are able to see the road towards the end product. In addition, it ensures that all team members feel involved, by having claiming "ownership" on parts of the project. It is also easier to divide the work based on experience and knowledge. If you are creating a movie, the music would most likely not be produced by the lead actor. Similarly, while coding on a larger project, the expert on network programming would most likely not do the design of the UI. In a complicated world of technology, to truly master a field, one would often need more than a decade. Therefore, finding methods to cooperate is important, not only in web development. 
 
-### Is Full Stack Really the Best Option?
-Another advantage of using a specific design pattern is that it can enable you to divide the problem into smaller knowledge based parts. To be a full stack developer is often looked upon as being the ultimate web developer. However, to master either frontend or backend development, it requires much practice, reading and a passion for what you are doing. In my experience, a lot of developers prefer one of the two and has a better skill set in what they are more interested in.
+### Do the Right Choices Now
