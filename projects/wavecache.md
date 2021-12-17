@@ -23,6 +23,6 @@ You can create your own account by clicking on log in as one can see in the pict
 
 <img class="ui fluid rounded image" src="../images/allbreaks.png">
 
-I coded most of the features both UI and database handling found after clicking "Find Your Break", the page you end up on after clicking a specific break, as well as the navbar and the footer.   
+I coded the features, both UI and database handling, found after clicking "Find Your Break", the page you end up on after clicking a specific break, as well as the navbar and the footer. I also did the deployment, data base handling of the  site running live and wrote the code for all of the tests.     
 
 You can find the source code for the project [here](https://github.com/wavecache/sharkbreaks), and the project website can be found [here](hhttps://wavecache.github.io/).
