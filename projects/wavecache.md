@@ -17,11 +17,11 @@ WaveCache is a project designed to list and categorize various beaches and Surfb
 
 <img class="ui fluid rounded image" src="../images/wavecachefrontpage.png">
 
+By doing this project I learned about team development, where we used issues to measure the progress. It also brought together many different cornerstones in web development, like using React, Javascript, Meteor, APIs and UI frameworks. In addition more general concepts were practiced, like code quality and testing. 
+
 You can create your own account by clicking on log in as one can see in the picture below. Click [here](http://www.wavecache.surf/#/surfBreaks) to reach the website.
 
 <img class="ui fluid rounded image" src="../images/allbreaks.png">
-
-By doing this project I learned about team development, where we used issues to measure the progress. It also brought together many different cornerstones in web development, like using React, Javascript, Meteor, APIs and UI frameworks. In addition more general concepts were practiced, like code quality and testing. 
 
 I coded most of the features both UI and database handling found after clicking "Find Your Break", the page you end up on after clicking a specific break, as well as the navbar and the footer.   
 
