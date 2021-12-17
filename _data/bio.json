@@ -106,6 +106,28 @@
         "Develop and simplify a complex system for non-technical personal",
         "Implement communication with the X20 hardware"
       ]
+    },
+    {
+      "company": "NTNU",
+      "position": "Teaching Assistant for Course About C++",
+      "website": "",
+      "startDate": "2021-01-01",
+      "endDate": "2021-06-10",
+      "summary": "Tutoring of students in the course Object Oriented Programming",
+      "highlights": [
+        "10 hours of total tutoring weekly"
+      ]
+    },
+    {
+      "company": "NTNU",
+      "position": "Teaching Assistant System Measurments",
+      "website": "",
+      "startDate": "2020-01-01",
+      "endDate": "2020-06-10",
+      "summary": "Tutoring of students in the course Measuremnt Techniques",
+      "highlights": [
+        "10 hours of total tutoring weekly, both in the lab and in the classroom"
+      ]
     }
   ],
   "volunteer": [
