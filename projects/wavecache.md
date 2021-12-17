@@ -10,7 +10,7 @@ labels:
   - JS
   - Meteor 
   - Semantic UI
-summary: My team developed a system for playing mini tennis against yourself.
+summary: Find your surf board, this page finds all the best breaks!
 ---
 
 <img class="ui medium right floated rounded image" src="../images/wavecachefrontpage">
